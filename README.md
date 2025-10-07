@@ -11,7 +11,7 @@ This assignment introduces you how to _Review Pull Requests_ and _Resolve Merge 
 * You need to finish 2 seperate courses step by step and put the links of each repository respectively at the and of this readme file.
 
 1. **Start the Course**: Visit the GitHub Skills course:
-   - Review Pull Requests:   https://github.com/skills-dev/github-pages
+   - Review Pull Requests:   https://github.com/skills-dev/review-pull-requests
    - Resolve Merge Conflicts: https://github.com/skills-dev/resolve-merge-conflicts
 
 2. **Complete the Course**: 
