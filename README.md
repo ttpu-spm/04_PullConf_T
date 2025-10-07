@@ -3,7 +3,8 @@
 **SPM 2025 Assignment N4 Template**
 
 ## Overview
-This assignment introduces you how to _Review Pull Requests_and _Resolve Merge Conflicts_ on Github
+
+This assignment introduces you how to _Review Pull Requests_ and _Resolve Merge Conflicts_ on Github
 
 ## Instructions
 
